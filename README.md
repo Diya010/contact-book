@@ -1,4 +1,4 @@
-# Contact Book App (Python Console Application)
+# Contact Book App 
 
 This is a simple yet functional *Contact Book application* built using Python. It allows users to manage personal contacts through a console-based interface, making it easy to store, update, and retrieve contact information.
 
